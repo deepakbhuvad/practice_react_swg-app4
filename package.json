@@ -1,0 +1,27 @@
+{
+  "name": "practice_react_swg-app4",
+  "version": "1.0.0",
+  "description": "This is practice app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakbhuvad/practice_react_swg-app4.git"
+  },
+  "author": "Deepak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakbhuvad/practice_react_swg-app4/issues"
+  },
+  "homepage": "https://github.com/deepakbhuvad/practice_react_swg-app4#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
